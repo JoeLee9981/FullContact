@@ -1,0 +1,16 @@
+Designed in C# using XAML - FullContact++
+
+  This project was created as a class project. The idea was to redesign an order management system we used at work.
+  The system used is sparse, and ugly. The order information was entered was out of order and inconvenient, causing
+  users to skip around in the system costing time, which costs money and looks bad for clients. This system was 
+  redesigned to streamline the whole process and fix the issues.
+
+  *It is important to note that this was designed with Microsoft SQL Server, the databases used are local, in order to
+   run this program on a local computer, a Microsoft SQL Server would need to be created, then run all 3 imports from
+   the file menu at the top to import .csv files included into the database.
+
+  Features Included:
+  -Zip code look up
+  -Databinding to correct format issues
+  -Ability to pull order history while in an order without exiting the current order
+  -Larger text boxes
